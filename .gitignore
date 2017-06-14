@@ -3,6 +3,7 @@
 *.lo
 *.o
 *.obj
+*.
 
 # Precompiled Headers
 *.gch
@@ -32,3 +33,4 @@
 *.sdf
 *.opensdf
 ipch/
+Debug/
